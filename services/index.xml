@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>サービス on TAML</title>
+    <link>/services/</link>
+    <description>Recent content in サービス on TAML</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>組み込み事業サポート</title>
+      <link>/services/embedsrv/</link>
+      <pubDate>Fri, 07 Jan 2022 15:15:34 +1000</pubDate>
+      
+      <guid>/services/embedsrv/</guid>
+      <description>組込みシステムの歴史は1980年に遡られます。ハードウェアの発展につれて組み込みシステム技術も発展してきます。現代の組込みシステムは従来より大規模化、複雑化に発展してきます。ソフトウェア、ハードウェア、ネットワークに関する技術だけではなくデータベースも及びます。現代技術の組込み事業を全力サポートさせて頂きます。
+私たちできること  電子回路設計のサポート PCBレイアウトのサポート ファームウェア設計のサポート システム設計のサポート アプリケーション設計のサポート UT/IT/STのサポート  </description>
+    </item>
+    
+    <item>
+      <title>外国人材紹介</title>
+      <link>/services/employmentagency/</link>
+      <pubDate>Fri, 07 Jan 2022 15:14:54 +1000</pubDate>
+      
+      <guid>/services/employmentagency/</guid>
+      <description>異なる文化背景、異なる言語、異なる習慣、みんなで協力して、偉大な事業を切り開きましょう。
+皆様のお仕事をより楽しく、よりスムーズに、できることに精一杯取り組ませて頂きます。専門性の高い人材や若手・中堅層など、多様な求人ニーズに対応可能です。特別にIT系の紹介は専門です。沢山の人材と連携したことがあるため、高品質マッチングにより、採用工数を大幅削減。
+個人だけでなく、お客様の希望により、下記のサービスが提供できます。
+ 私たちできること  中国の優秀人材の紹介 中国の優秀チームの紹介 中国の優秀会社の紹介  </description>
+    </item>
+    
+    <item>
+      <title>webサイト作成</title>
+      <link>/services/websrv/</link>
+      <pubDate>Fri, 07 Jan 2022 15:15:26 +1000</pubDate>
+      
+      <guid>/services/websrv/</guid>
+      <description>ECサイトなどwebページをを綺麗に、機能的に、迅速に、ローコストで作成できます。
+作成要求についての打ち合わせはいつでも、どこでも。提案式の開発、成熟的な方案。時間を大幅に節約出来ます。作成だけではなく、サーバー申請、保守もセットとしてサポート出来ます。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on TAML</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on TAML</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 07 Jan 2022 09:29:16 +1000</lastBuildDate><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 07 Jan 2022 09:29:16 +1000</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recruit</title>
+      <link>/recruit/</link>
+      <pubDate>Fri, 07 Jan 2022 09:29:16 +1000</pubDate>
+      
+      <guid>/recruit/</guid>
+      <description>About Heading      ただいま 募集計画がありません     </description>
+    </item>
+    
+  </channel>
+</rss>
